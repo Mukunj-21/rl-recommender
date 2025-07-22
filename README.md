@@ -100,4 +100,3 @@ MIT License
 
 **ShopGenie** — Experiment. Learn. Innovate.  
 A safe and interactive playground to advance your recommender system research—no real user data required!
-# rl-recommender
