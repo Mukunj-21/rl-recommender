@@ -1,0 +1,11 @@
+streamlit>=1.29.0
+gymnasium
+numpy
+pandas
+torch
+stable-baselines3
+faker
+matplotlib
+seaborn
+wandb
+scikit-learn
